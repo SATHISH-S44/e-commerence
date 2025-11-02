@@ -55,7 +55,7 @@ function OrderModal({ isOpen, onClose }) {
       clearCart();
       handleClose();
       alert('Your order has been sent to the admin via WhatsApp!');
-    }, 1000);
+    }, 500);
   };
 
   const handleClose = () => {
