@@ -14,7 +14,7 @@ function Header() {
         <nav className="container mx-auto px-4 sm:px-6 py-4">
           <div className="flex items-center justify-between">
             <Link to="/" className="text-xl sm:text-2xl font-bold hover:text-purple-200 transition">
-              🛍️ E-Shop
+              🛍️ Selvam
             </Link>
             
             {/* Mobile Menu Button */}

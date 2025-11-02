@@ -9,7 +9,7 @@ function Home() {
       {/* Hero Section */}
       <section className="bg-gradient-to-r from-purple-600 to-blue-600 text-white py-12 sm:py-16 md:py-20">
         <div className="container mx-auto px-4 sm:px-6 text-center">
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-4">Welcome to E-Shop</h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-4">Welcome to Selvam</h1>
           <p className="text-lg sm:text-xl mb-4 sm:mb-8">Discover amazing products at great prices</p>
           <p className="text-base sm:text-lg opacity-90">Browse our collection of {products.length} products</p>
         </div>

@@ -28,7 +28,7 @@ function OrderModal({ isOpen, onClose }) {
     }
 
     // Prepare order details message
-    let message = `*New Order from E-Shop*\n\n`;
+    let message = `*New Order from Selvam*\n\n`;
     message += `*Customer Details:*\n`;
     message += `Name: ${formData.name}\n`;
     message += `Phone: ${formData.phone}\n`;
