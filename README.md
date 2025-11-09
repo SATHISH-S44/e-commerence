@@ -19,5 +19,8 @@
   - To add the datas it will require the admin password.
   - That can be changed in the progect code itself.
 
-  
+  # Tech stack used:
+    - React JS (Frontend)
+    - Excel (Database)
+    - Netlify (Frontend hosting)
   
